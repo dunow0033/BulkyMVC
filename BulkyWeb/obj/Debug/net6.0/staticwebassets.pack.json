@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
-    },
-    {
       "Id": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
