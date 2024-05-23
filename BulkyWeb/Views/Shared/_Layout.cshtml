@@ -28,7 +28,7 @@
                             <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
 
-                        @if (User.IsInRole(SD.Role_Admin))
+                        @*@if (User.IsInRole(SD.Role_Admin))*@
                         {
                             <li class="nav-item">
                                 <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -44,12 +44,15 @@
                                     <li class="nav-item">
                                         <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">Company</a>
+                                    </li>
 
                                     <li><hr class="dropdown-divider"></li>
 
                                 </ul>
                             </li>
-                        }
+                        @*}*@
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
@@ -63,7 +66,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer bg-primary text-muted">
+    <footer class="border-top footer bg-primary text-white">
         <div class="text-center">
             Made with <i class="bi bi-heart-fill"></i> by DotNetMastery
         </div>
@@ -73,7 +76,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="//cdn.datatables.net/1.11.2/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.datatables.net/1.11.2/js/jquery.dataTables.min.js" asp-append-version="true"></script>
 
     <script src="https://cdn.tiny.cloud/1/u0qn7bod7hj2x1ju2q1vtwlhflqxg2457gwr06gkfnu3s0vg/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
     @await RenderSectionAsync("Scripts", required: false)
