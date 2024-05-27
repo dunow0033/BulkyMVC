@@ -53,6 +53,11 @@
                                 </ul>
                             </li>
                         @*}*@
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Customer" asp-controller="Cart" asp-action="Index">
+                                <i class="bi bi-cart"></i> &nbsp;
+                            </a>
+                        </li>
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
@@ -78,7 +83,9 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="//cdn.datatables.net/1.11.2/js/jquery.dataTables.min.js" asp-append-version="true"></script>
 
-    <script src="https://cdn.tiny.cloud/1/u0qn7bod7hj2x1ju2q1vtwlhflqxg2457gwr06gkfnu3s0vg/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/u0qn7bod7hj2x1ju2q1vtwlhflqxg2457gwr06gkfnu3s0vg/tinymce/7/tinymce.min.js" referrerpolicy="origin">
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

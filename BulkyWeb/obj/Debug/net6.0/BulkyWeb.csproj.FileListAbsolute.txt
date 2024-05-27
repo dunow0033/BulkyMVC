@@ -271,7 +271,6 @@ C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Bulky.Utility.dll
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Bulky.DataAccess.pdb
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Bulky.Models.pdb
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Bulky.Utility.pdb
-C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\bedon\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
