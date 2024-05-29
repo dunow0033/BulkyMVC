@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WpLtt0cqJnkQZJOMyufGU7X/Rp0bVnf5BYxyyYFby8I=",
+  "Hash": "VDyNBiw6AaqFIbS2xEIYDKoZPsBGcaz0Gv/ucdNQBjw=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1273,6 +1273,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\order.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\product.js",
