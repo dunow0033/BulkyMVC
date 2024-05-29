@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "gZXZUIMjjQWsYeDkQwh7/hjfymzkFngGTtPqomEwBgwFjs0XXx4Mwie7ijp7D27u19im3ARhJgrIdiQ9NmJ3VA==",
+  "dgSpecHash": "K6M7tjtUZO7wlMKUijU+3QqlAePKtT5IPyyqROfir33eTF7ntfkNjGqW8+7lwcmJKcXxogZUW1tunZqp6372FQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bedon\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\stripe.net\\44.9.0\\stripe.net.44.9.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedon\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
