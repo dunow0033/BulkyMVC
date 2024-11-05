@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K6M7tjtUZO7wlMKUijU+3QqlAePKtT5IPyyqROfir33eTF7ntfkNjGqW8+7lwcmJKcXxogZUW1tunZqp6372FQ==",
+  "dgSpecHash": "ho6ZoxfNz17zC6PwSXj0HwweExGwCke3M5oSp8HkVg8Gge1+OCo2SxKFd/TvRLsYI+n9Mhmwb+gJ3tfVYf/0Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
+  "projectFilePath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bedon\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\bedon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\bedon\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net6.0\Bulky.Models.
 C:\Users\bedon\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net6.0\refint\Bulky.Models.dll
 C:\Users\bedon\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net6.0\Bulky.Models.pdb
 C:\Users\bedon\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net6.0\ref\Bulky.Models.dll
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\bin\Debug\net6.0\Bulky.Models.deps.json
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\bin\Debug\net6.0\Bulky.Models.dll
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\bin\Debug\net6.0\Bulky.Models.pdb
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.dll
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\refint\Bulky.Models.dll
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\Bulky.Models.pdb
+C:\Users\bedon\source\repos\BulkyMVC\Bulky.Models\obj\Debug\net6.0\ref\Bulky.Models.dll

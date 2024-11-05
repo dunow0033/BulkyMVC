@@ -4027,11 +4027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4048,11 +4048,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj"
+            "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }

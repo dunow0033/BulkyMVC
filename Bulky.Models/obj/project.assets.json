@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
       "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
+      "projectPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
       "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Models\\obj\\",
+      "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",

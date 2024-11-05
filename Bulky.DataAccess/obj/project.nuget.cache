@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jaf+2uZGEcY6glhXI+nJtWSm3GzQL0dUkZqw7I9Y06ltsV2Q0x9qcep95wdfgUMW3MM0ksGzkq5qFfOnDWBOqQ==",
+  "dgSpecHash": "7UZh9foQsdf+pPTqsIYrDvwZZk46qM8DxSvUpFtUccGydns9+a4/qjLsZsfZhgbz+vZMwi6dAoWHOt1tkQH/lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bedon\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\bedon\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

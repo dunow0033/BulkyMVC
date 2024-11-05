@@ -1239,11 +1239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bedon\\source\\repos\\BulkyWeb\\Bulky.Utility\\obj\\",
+      "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
