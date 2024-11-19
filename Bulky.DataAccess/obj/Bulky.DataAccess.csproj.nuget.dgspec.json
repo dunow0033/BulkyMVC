@@ -11,7 +11,7 @@
         "projectName": "Bulky.DataAccess",
         "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
