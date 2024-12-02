@@ -463,19 +463,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bedon\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
       "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
-      "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Models\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -495,6 +495,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -525,7 +530,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

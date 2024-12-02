@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
-        "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

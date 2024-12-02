@@ -4022,19 +4022,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bedon\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\bedon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bedon\\Source\\Repos\\BulkyMVC\\Bulky.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4048,11 +4048,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "C:\\Users\\bedon\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj"
+            "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }
@@ -4061,6 +4061,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4106,7 +4111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
