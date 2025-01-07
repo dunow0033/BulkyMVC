@@ -3,6 +3,7 @@ using Bulky.Models;
 using Bulky.Models.ViewModels;
 using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
 using System.Security.Claims;
@@ -14,10 +15,14 @@ namespace BulkyWeb.Areas.Customer.Controllers
     public class CartController : Controller {
 
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IEmailSender _emailSender;
+
         [BindProperty]
         public ShoppingCartVM ShoppingCartVM { get; set; }
-        public CartController(IUnitOfWork unitOfWork) {
+        public CartController(IUnitOfWork unitOfWork, IEmailSender emailSender = null)
+        {
             _unitOfWork = unitOfWork;
+            _emailSender = emailSender;
         }
 
         public IActionResult Index() {
@@ -106,7 +111,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
             _unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
             _unitOfWork.Save();
 
-            foreach(var cart in  ShoppingCartVM.ShoppingCartList) {
+            foreach(var cart in ShoppingCartVM.ShoppingCartList) {
                 OrderDetail orderDetail = new()
                 {
                     ProductId = cart.ProductId,
@@ -121,7 +126,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
             if (applicationUser.CompanyId.GetValueOrDefault() == 0)
             {
-                var domain = "https://localhost:7030/";
+                var domain = Request.Scheme + "://" + Request.Host.Value + "/";
 
                 var options = new Stripe.Checkout.SessionCreateOptions
                 {
@@ -177,6 +182,9 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 }
                 HttpContext.Session.Clear();
             }
+
+            _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - Bulky Book",
+                $"<p>New Order Created -{orderHeader.Id}</p>");
 
             List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart
                 .GetAll(u => u.ApplicationUserId == orderHeader.ApplicationUserId).ToList();
