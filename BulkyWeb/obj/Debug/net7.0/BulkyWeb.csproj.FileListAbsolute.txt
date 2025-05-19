@@ -273,3 +273,7 @@ C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.d
 C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
 C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll
+C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\bin\Debug\net7.0\BulkyWeb.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\source\repos\BulkyMVC\BulkyWeb\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt

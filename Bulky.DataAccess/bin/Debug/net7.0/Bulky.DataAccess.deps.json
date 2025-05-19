@@ -749,7 +749,10 @@
           "Stripe.net": "44.9.0"
         },
         "runtime": {
-          "Bulky.Models.dll": {}
+          "Bulky.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Bulky.Utility/1.0.0": {
@@ -759,7 +762,10 @@
           "Stripe.net": "44.9.0"
         },
         "runtime": {
-          "Bulky.Utility.dll": {}
+          "Bulky.Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

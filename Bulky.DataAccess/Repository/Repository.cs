@@ -19,7 +19,7 @@ namespace Bulky.DataAccess.Repository
         {
 			_db = db;
 			dbSet = _db.Set<T>();
-			_db.Products.Include(u => u.Category).Include(u => u.Category).ToList();
+			_db.Products.Include(u => u.Category).Include(u => u.CategoryId);
         }
 
         public void Add(T entity)

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BulkyWeb.hjl38d0rl6.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -57,12 +57,36 @@
       "PackagePath": "staticwebassets\\images\\product\\e55ccd49-8176-4986-b7fc-12bbd5749a1f.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-2\\344d2b73-f277-4556-b58f-7338489411db.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\product-2\\344d2b73-f277-4556-b58f-7338489411db.jpg"
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-1\\dde8b143-924b-4e1b-bb35-6e6004d9bc16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\dde8b143-924b-4e1b-bb35-6e6004d9bc16.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-2\\706c205f-c84a-4baa-b862-6fae650680d9.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\product-2\\706c205f-c84a-4baa-b862-6fae650680d9.jpg"
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-2\\1dcdb9bc-5807-4c00-8a6c-e60ca64373ba.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\1dcdb9bc-5807-4c00-8a6c-e60ca64373ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-6\\4fa24406-2b6f-404f-a46b-00b9ab1f80b7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\4fa24406-2b6f-404f-a46b-00b9ab1f80b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-6\\darkSkiesFront17.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\darkSkiesFront17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-7\\27ac3af8-7da1-44f3-8124-46bdc07f8e62.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-7\\27ac3af8-7da1-44f3-8124-46bdc07f8e62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-8\\003c9f0c-3c08-48a0-b711-48a4606a5db3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-8\\003c9f0c-3c08-48a0-b711-48a4606a5db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-8\\6a08c9b9-1807-4f0e-b7ef-2c3145294034.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-8\\6a08c9b9-1807-4f0e-b7ef-2c3145294034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\images\\products\\product-9\\1df248a3-9f76-45f2-a41f-15bd943f75ad.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-9\\1df248a3-9f76-45f2-a41f-15bd943f75ad.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\js\\company.js",
@@ -311,6 +335,10 @@
     {
       "Id": "C:\\Users\\Admin\\source\\repos\\BulkyMVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
